@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mantra Technology"
+theme = "hermit"
+
+disableKinds = ["RSS"]
+
+[params]
+  homeSubtitle = "A software development company"
