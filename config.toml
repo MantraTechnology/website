@@ -6,4 +6,4 @@ theme = "hermit"
 disableKinds = ["RSS"]
 
 [params]
-  homeSubtitle = "A software development company"
+  homeSubtitle = "A software development and consulting company"
